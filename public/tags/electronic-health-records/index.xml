@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic Health Records on Ken Moselle</title>
+    <link>/tags/electronic-health-records/</link>
+    <description>Recent content in Electronic Health Records on Ken Moselle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/electronic-health-records/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>“Real-world” de-identification of highdimensional transactional health datasets</title>
+      <link>/publication/2019-reboot-conference/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-reboot-conference/</guid>
+      <description>This paper presents a framework for addressing data access challenges associated with secondary use of high-dimensional transactional datasets that have been extracted from electronic health/medical records (EHRs).</description>
+    </item>
+    
+  </channel>
+</rss>
