@@ -6,10 +6,10 @@ education:
   courses:
   - course: PhD in Clinical Psychology
     institution: University of California, Berkely
-    year: 1975
+    year: 1981
   - course: BA in Psychology
     institution: Yale University
-    year: 1967
+    year: 1975
 email: "kennethmoselle@gmail.com"
 interests:
 - Cycling
@@ -20,9 +20,9 @@ interests:
 
 name: Ken Moselle
 organizations:
-- name: Island Health / Univeristy of Victoria
+- name: Vancouver Island Health Authority
   url: ""
-role: Applied Clinical Research Unit, Director
+role: Applied Clinical Research Unit
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,10 +42,11 @@ user_groups:
 - Visitors
 ---
 
-Ken Moselle is the director of the Applied Clinical Research Unit (ACRU) at Vancouver Island Health Authority (Island Health). He is an adjust professor of clinical psychogy at [University of Victoria][uvic], research affiliate of the [Institute on Aging and Lifelong Health (IALH)][ialh] a co-founder of [Data Science Studio][dss]. 
+Ken Moselle is the director of the [Applied Clinical Research Unit][ihacru] (ACRU) at [Vancouver Island Health Authority][viha] (Island Health). He is an adjunct professor of clinical psychogy at [University of Victoria][uvic], research affiliate of the [Institute on Aging and Lifelong Health (IALH)][ialh], and a co-founder of [Data Science Studio][dss]. 
 
-
+[ihacru]:http://github.com/ihacru
 [uvic]:http://uvic.ca
+[viha]:http://viha.ca
 [ialh]:http://uvic.ca/aging
 [dss]:http://dss-ialh.rbind.io
 
