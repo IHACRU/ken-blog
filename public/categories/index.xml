@@ -6,17 +6,26 @@
     <description>Recent content in Categories on Ken Moselle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Data Access &amp; Diclosure Control</title>
+      <link>/categories/data-access-diclosure-control/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/categories/data-access-diclosure-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Informatics</title>
+      <link>/categories/health-informatics/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/health-informatics/</guid>
       <description></description>
     </item>
     

@@ -26,13 +26,7 @@ role: Applied Clinical Research Unit
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+  link: 'mailto:kenneth.moselle@viha.ca '
 - icon: github
   icon_pack: fab
   link: https://github.com/ihacru
@@ -42,7 +36,7 @@ user_groups:
 - Visitors
 ---
 
-Ken Moselle is the director of the [Applied Clinical Research Unit][ihacru] (ACRU) at [Vancouver Island Health Authority][viha] (Island Health). He is an adjunct professor of clinical psychogy at [University of Victoria][uvic], research affiliate of the [Institute on Aging and Lifelong Health (IALH)][ialh], and a co-founder of [Data Science Studio][dss]. 
+Ken Moselle is the director of the [Applied Clinical Research Unit][ihacru] (ACRU) at [Vancouver Island Health Authority][viha] (Island Health). He is an adjunct associate professor of clinical psychogy at [University of Victoria][uvic], research affiliate of the [Institute on Aging and Lifelong Health (IALH)][ialh], and a co-founder of [Data Science Studio][dss]. 
 
 [ihacru]:http://github.com/ihacru
 [uvic]:http://uvic.ca

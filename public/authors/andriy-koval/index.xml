@@ -6,10 +6,19 @@
     <description>Recent content in Andriy Koval on Ken Moselle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/andriy-koval/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Target Information Architecture</title>
+      <link>/post/2019-07-11-target-information-architecture/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-07-11-target-information-architecture/</guid>
+      <description>We argue that a developed Target Information Architecture (TIA) is a necessary condition to guide the translation of health service analytics back into a health service system.</description>
+    </item>
     
     <item>
       <title>“Real-world” de-identification of highdimensional transactional health datasets</title>

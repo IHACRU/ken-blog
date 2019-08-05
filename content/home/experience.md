@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Adjunct Professor"
+  title = "Adjunct Associate Professor"
   company = "University of Victoria"
   company_url = ""
   location = "Victoria, British Columbia"

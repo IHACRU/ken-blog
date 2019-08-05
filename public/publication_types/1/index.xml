@@ -20,14 +20,5 @@
       <description>This paper presents a framework for addressing data access challenges associated with secondary use of high-dimensional transactional datasets that have been extracted from electronic health/medical records (EHRs).</description>
     </item>
     
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
   </channel>
 </rss>
